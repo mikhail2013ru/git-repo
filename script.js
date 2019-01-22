@@ -3,6 +3,8 @@
 var a = 5;
 console.log(a);
 
+var b = 3;
+
 let incr = 10,
 		decr = 10;
 
